@@ -1,5 +1,5 @@
 # proj1_fall21
-Then clone it to your local computer.  
+Clone it to your local computer.  
 
 - git clone (url)
 
